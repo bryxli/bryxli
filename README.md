@@ -24,8 +24,6 @@ I am an aspiring full stack engineer with an interest in open-source. Recently, 
 
 [![pigeonhole.dev](https://github-readme-stats.vercel.app/api/pin/?username=peter-w-bryant&repo=pigeonhole.dev)](https://github.com/peter-w-bryant/pigeonhole.dev)
 
-<br />
-
-### Connect with me on LinkedIn!
+## Connect with me on LinkedIn!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryxli/)
