@@ -2,9 +2,9 @@
 Graduating from the University of Wisconsin-Madison in May 2023 completing a B.S. in computer science and data science alongside a certificate in digital studies.  
 I am an aspiring full stack engineer with an interest in open-source. Recently, I have been learning more about DevOps and IaC using AWS.
 
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryxli&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryxli&count_private=true&show_icons=true&theme=dracula)](https://github.com/bryxli)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryxli&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryxli&theme=dracula)](https://github.com/bryxli)
 
 ## 🛠 Skills
 [![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
